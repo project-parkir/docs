@@ -16,9 +16,9 @@
 </div>
 
 ## About The Project
-<p></p>
+<p>A highly scalable and user-friendly application named “Parkir” designed to facilitate efficient traffic distribution by leveraging real-time parking updates and accurate Dynamic pricing by using geo tracking technology. This solution ensures a seamless process for booking parking slots, benefiting both users and parking slot vendors. The entire process is digitized, enabling online transactions through UPI and generating tickets with QR codes for scanning at parking stations. This innovative system enhances the overall urban mobility experience and promotes transparency and convenience for all stakeholders involved.</p>
 
-### Team Members:
+## Team Members:
 <p>1. <a href="https://github.com/SahilLodhe">Sahil Lodhe</a>(Team Leader)</p>
 <p>2. <a href="https://github.com/Sid-0602">Siddhant Jadhav</a></p>
 <p>3. <a href="https://github.com/Bhushan-Thombre">Bhushan Thombre</a></p>
@@ -26,12 +26,12 @@
 <p>5. <a href="https://github.com/ApoorvaGhorpade15">Apoorva Ghorpade</a></p>
 <p>6. <a href="https://github.com/Priyanshu171">Priyanshu Nikam</a></p>
 
-### Problem Statement : (SIH1515)
+## Problem Statement : (SIH1515)
 
 <p> In India, the rapid increase in the number of vehicles has outpaced the availability of parking space, causing widespread issues like traffic congestion, on-street parking chaos, and revenue loss for operators. To address this problem, we aim to develop a smart parking solution that utilizes sensors and software to provide real-time information on available parking spaces. By optimizing parking prices based on demand, our solution not only enhances resource utilization but also generates sustainable revenue for cities. Our goal is to empower city administrators with an efficient tool for predicting, managing, and financing parking while offering citizens a user-friendly app for convenient parking reservations and payments, ultimately reducing environmental impact and promoting mobility solutions.
 </p>
 
-### Features: 
+## Features: 
 <strong>1. Real-Time Parking availability:  </strong>
 <p> This feature offers users immediate updates on parking availability across multiple stations, streamlining the booking process and enhancing their overall experience.</p>
 <strong>2. Dynamic Pricing:  </strong>
@@ -43,7 +43,7 @@
 <strong>5.Empowering Vendors: </strong>
 <p> Our solution provides a platform for vendors, including both government and private stakeholders, to seamlessly make their parking spots available through our application. We believe in inclusivity and collaboration, ensuring that all parking providers can utilize our platform for the benefit of the community.</p>
 
-### User-Interface Diagrams:
+## User-Interface Diagrams:
 
 
 
