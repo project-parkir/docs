@@ -1,4 +1,3 @@
-<div id="top"><div>
 <div align="center">
 <h1>
 <a href="https://ibb.co/kQ0NfGn"><img src="https://i.ibb.co/Ln6VW0w/sih-2023.png" alt="sih-2023" border="0"></a>
@@ -45,5 +44,29 @@
 
 ## User-Interface Diagrams:
 
+![ui_1](https://github.com/project-parkir/docs/assets/86071680/1470d79b-4928-4b5f-b4a8-35f7dbf8c17e)
 
+
+![ui_2](https://github.com/project-parkir/docs/assets/86071680/b8badf28-a176-416b-8280-6711767bda91)
+
+
+![ui_3](https://github.com/project-parkir/docs/assets/86071680/100c946c-d1f6-481b-8089-ed12b337f68e)
+
+
+![ui_4](https://github.com/project-parkir/docs/assets/86071680/8a04b352-e184-4f99-ade3-45d396e0b6c3)
+
+
+![ui_5](https://github.com/project-parkir/docs/assets/86071680/b7b692d9-73df-4c2b-9797-39cb4b914173)
+
+
+![ui_6](https://github.com/project-parkir/docs/assets/86071680/f4afd9bf-9317-45e8-bc06-36fafa1e0a4a)
+
+
+![ui_7](https://github.com/project-parkir/docs/assets/86071680/ed32c279-e5cc-43b3-9dc4-166c6949a1bb)
+
+
+![ui_8](https://github.com/project-parkir/docs/assets/86071680/09ab6140-1aee-4aec-bbc0-720eac7a8e67)
+
+
+## Tech-Stack: 
 
