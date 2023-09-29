@@ -7,7 +7,7 @@
 </div>
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://ibb.co/8NHhSby"><img src="https://i.ibb.co/ydr3bpz/parkir-logo.png" alt="parkir-logo" border="0" width ="180",height="180"></a>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/PhzFCF6/parkir-logo.png" alt="parkir-logo" border="0" width ="200" height="200" ></a>
 
   <h2 align="center"><strong>PARKIR</strong></h2>
 
