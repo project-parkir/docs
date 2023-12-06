@@ -114,4 +114,10 @@
 ### Warehousing and Analytics:
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/1KBcZv8/redshift-logo.png" alt="redshift-logo" border="0" width ="90" height="90"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/9r8XG9D/mixpanal-logo.jpg" alt="mixpanal-logo" border="0" width ="90" height="90"></a>
- 
+
+### Technical Diagrams: 
+
+![image](https://github.com/project-parkir/docs/assets/86071680/b5eb2d0c-fa35-481b-a6a4-8c089cdd676d)
+![image](https://github.com/project-parkir/docs/assets/86071680/b7ff9103-ff1b-449e-a734-0aa96c88a2f2)
+![image](https://github.com/project-parkir/docs/assets/86071680/e8d05a22-1db8-4980-bd70-ce6950331331)
+
